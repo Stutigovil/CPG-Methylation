@@ -1,0 +1,55 @@
+============================================================
+METHYLATION DATA MERGE SUMMARY
+============================================================
+
+Generated: 2025-11-19 00:29:18
+
+INPUT FILES:
+  - Patient metadata: patient_metadata.csv
+  - CpG annotations: cpg_info.csv
+  - Beta matrix: GSE145361_Vallerga2020_NCOMMS_AvgBeta_Matrix-file(1).txt
+
+OUTPUT FILES:
+  - Merged data directory: merged_methylation_data/
+  - Number of chunk files: 48
+  - Total size: 8383.4 MB
+  - Sample metadata: sample_disease_mapping.csv
+
+DATASET DIMENSIONS:
+  - CpG sites (rows): 473,560
+  - Samples (columns): 1889
+  - Total data points: 894,554,840
+
+CHROMOSOMES INCLUDED:
+  - Autosomal only: chr1-22
+  - Sex chromosomes (X, Y) excluded
+
+CpG DISTRIBUTION BY CHROMOSOME:
+  chr1: 46,829 CpG sites
+  chr10: 24,384 CpG sites
+  chr11: 28,786 CpG sites
+  chr12: 24,542 CpG sites
+  chr13: 12,295 CpG sites
+  chr14: 15,081 CpG sites
+  chr15: 15,260 CpG sites
+  chr16: 21,959 CpG sites
+  chr17: 27,886 CpG sites
+  chr18: 5,915 CpG sites
+  chr19: 25,519 CpG sites
+  chr2: 34,788 CpG sites
+  chr20: 10,399 CpG sites
+  chr21: 4,276 CpG sites
+  chr22: 8,553 CpG sites
+  chr3: 25,162 CpG sites
+  chr4: 20,457 CpG sites
+  chr5: 24,328 CpG sites
+  chr6: 36,613 CpG sites
+  chr7: 30,014 CpG sites
+  chr8: 20,951 CpG sites
+  chr9: 9,881 CpG sites
+
+DISEASE DISTRIBUTION:
+  Parkinson's disease: 959 samples
+  Control: 930 samples
+
+============================================================
